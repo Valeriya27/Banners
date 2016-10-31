@@ -7,7 +7,7 @@ lib.properties = {
 	width: 600,
 	height: 90,
 	fps: 40,
-	color: "#666666",
+	color: "#FFFFFF",
 	manifest: []
 };
 
@@ -18,63 +18,63 @@ lib.properties = {
 
 
 (lib.flower02 = function() {
-	this.spriteSheet = ss["Vip_Turkey_atlas_"];
+	this.spriteSheet = ss["VipTurkey_atlas_"];
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.flower03 = function() {
-	this.spriteSheet = ss["Vip_Turkey_atlas_"];
+	this.spriteSheet = ss["VipTurkey_atlas_"];
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.flower04 = function() {
-	this.spriteSheet = ss["Vip_Turkey_atlas_"];
+	this.spriteSheet = ss["VipTurkey_atlas_"];
 	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.flower_01 = function() {
-	this.spriteSheet = ss["Vip_Turkey_atlas_"];
+	this.spriteSheet = ss["VipTurkey_atlas_"];
 	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image_01 = function() {
-	this.spriteSheet = ss["Vip_Turkey_atlas_"];
+	this.spriteSheet = ss["VipTurkey_atlas_"];
 	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image_03 = function() {
-	this.spriteSheet = ss["Vip_Turkey_atlas_"];
+	this.spriteSheet = ss["VipTurkey_atlas_"];
 	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image_09 = function() {
-	this.spriteSheet = ss["Vip_Turkey_atlas_"];
+	this.spriteSheet = ss["VipTurkey_atlas_"];
 	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.image_10 = function() {
-	this.spriteSheet = ss["Vip_Turkey_atlas_"];
+	this.spriteSheet = ss["VipTurkey_atlas_"];
 	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.tea = function() {
-	this.spriteSheet = ss["Vip_Turkey_atlas_"];
+	this.spriteSheet = ss["VipTurkey_atlas_"];
 	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
